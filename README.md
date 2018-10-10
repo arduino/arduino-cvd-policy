@@ -45,7 +45,7 @@ If issues reported to our program affect a third-party library, external project
 
 ## Safe Harbor
 
-To encourage responsible reporting, we will not take legal action against you nor ask law enforcement to investigate you provided you comply with the guidelines of this policy. We understand that many our systems and services are interconnected with third-party systems and services. Please understand that we can only provide this legal commitment with respect to the components we own and control the rights on. If legal action is initiated by a third party against you in connection with activities conducted under this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
+To encourage responsible reporting, we will not take legal action against you nor ask law enforcement to investigate you provided you comply with the guidelines of this policy. We understand that many of our systems and services are interconnected with third-party systems and services. Please understand that we can only provide this legal commitment with respect to the components we own and control the rights on. If legal action is initiated by a third party against you in connection with activities conducted under this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
 
 ## Coordinated Disclosure
 
