@@ -19,7 +19,7 @@ When in doubt about if your potential conduct complies with this policy, please 
 
 ## Reporting a vulnerability
 
-We accept and discuss vulnerability reports via email at [**security@arduino.cc**](mailto:security@arduino.cc). Please encrypt your findings using  [**our PGP key**](https://github.com/arduino/vulnerability-disclosure-policy/blob/master/security_at_arduino_cc-pub.asc) to prevent this critical information from falling into the wrong hands.
+We accept and discuss vulnerability reports via email at [**security@arduino.cc**](mailto:security@arduino.cc). Please encrypt your findings using  [**our PGP key**](https://github.com/arduino/arduino-cvd-policy/blob/master/security_at_arduino_cc-pub.asc) to prevent this critical information from falling into the wrong hands.
 
 Reports should include:
 
