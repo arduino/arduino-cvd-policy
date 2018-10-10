@@ -4,13 +4,13 @@ At Arduino, we consider the security of our systems and products a top priority.
 
 If you believe you've found a security issue in our products or services, we encourage you to notify us. We welcome working with you to resolve the issue promptly.
 
-This policy describes **how to send us** vulnerability reports and **how long** we ask security researchers to wait before publicly disclosing vulnerabilities.
+This policy describes **how to send us** vulnerability reports and **how long** we ask security researchers to wait before publicly disclosing vulnerabilities. Your personal data will be processed to pursue Arduino’s legitimate interests in accordance with our [privacy policy](https://www.arduino.cc/en/Main/PrivacyPolicy/).
 
 ## Guidelines
 We ask that you:
 
  - Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction or manipulation of data.
- - Only use exploits to the extent necessary to confirm a vulnerability, don’t exploit a vulnerability for gain. Do not use an exploit to compromise or exfiltrate data, establish command line access and/or persistence, or use the exploit to "pivot" to other systems. Once you've established that a vulnerability exists, or encountered any of the sensitive data outlined below, please stop your test and notify us immediately.
+ - Only use exploits to the extent necessary to confirm a vulnerability, don’t exploit a vulnerability for gain. Do not use an exploit to compromise or exfiltrate data, establish command line access and/or persistence, or use the exploit to "pivot" to other systems. Once you've established that a vulnerability exists, or encountered any of the sensitive information outlined below, please stop your test and notify us immediately.
  - Please keep confidential any information about discovered vulnerabilities for  **up to 90 calendar days**  after you have notified Arduino, unless mutually agreed otherwise. For details, please review our [**Coordinated Disclosure**](#coordinated-disclosure) section below.
  - Please do not modify, store or access data that does not belong to you. Instead, use your own accounts for security research purposes.
  - If you inadvertently access, modify, delete, or store user data, we ask that you notify Arduino immediately at [**security@arduino.cc**](mailto:security@arduino.cc) and delete any stored data after notifying us.
