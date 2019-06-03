@@ -1,0 +1,5 @@
+Contact: mailto:security@arduino.cc
+Encryption: https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc
+Preferred-Languages: en
+Canonical: https://www.arduino.cc/.well-known/security.txt
+Policy: https://www.arduino.cc/en/Main/Security
